@@ -1,7 +1,5 @@
 # Hospital Database Design and Implementation
 
-![ER Diagram](ERDiagram.png)
-
 ## Project Description
 
 This project involves the design and implementation of a comprehensive hospital database to manage various aspects of a hospital's operations, enabling efficient organization and streamlined management processes.
@@ -16,6 +14,7 @@ The goal is to create an efficient and organized system to streamline hospital m
 - **Queries**: The project provides a set of queries to extract relevant information from the database, aiding in hospital management tasks.
 - **ER Diagram**: The entity-relationship diagram visually represents the structure of the database, highlighting entities, attributes, and relationships.
 
+
 ## Project Files
 
 - [ERDiagram.png](ERDiagram.png): The ER diagram representing the relationships and structure of the hospital database.
@@ -23,6 +22,9 @@ The goal is to create an efficient and organized system to streamline hospital m
 - [HospitalDBSQL.sql](HospitalDBSQL.sql): SQL code for creating the database, tables, and defining relationships.
 - [Required Queries.docx](Required%20Queries.docx): Document containing queries that can be executed on the database.
 - [Required Queries.sql](Required%20Queries.sql): SQL file containing the implementation of the required queries.
+
+
+![ER Diagram](ERDiagram.png)
 
 
 ## Project Relationships and Business Rules
